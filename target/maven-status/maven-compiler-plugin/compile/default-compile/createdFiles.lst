@@ -1,0 +1,6 @@
+com\tx\model\User1.class
+com\tx\test\impl\OuterBeanImpl.class
+com\tx\Main.class
+com\tx\test\impl\InnerBeanImpl.class
+com\tx\test\InnerBean.class
+com\tx\test\OuterBean.class
